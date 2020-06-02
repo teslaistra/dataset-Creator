@@ -1,0 +1,13 @@
+C:\Users\Daniil Yefimov\source\repos\dataSetCreator\obj\Debug\dataSetCreator.csprojAssemblyReference.cache
+C:\Users\Daniil Yefimov\source\repos\dataSetCreator\obj\Debug\dataSetCreator.csproj.CoreCompileInputs.cache
+C:\Users\Daniil Yefimov\source\repos\dataSetCreator\bin\Debug\dataSetCreator.dll
+C:\Users\Daniil Yefimov\source\repos\dataSetCreator\bin\Debug\dataSetCreator.pdb
+C:\Users\Daniil Yefimov\source\repos\dataSetCreator\bin\Debug\ScriptHookVDotNet3.dll
+C:\Users\Daniil Yefimov\source\repos\dataSetCreator\bin\Debug\ScriptHookVDotNet3.xml
+C:\Users\Daniil Yefimov\source\repos\dataSetCreator\obj\Debug\dataSetCreator.csproj.CopyComplete
+C:\Users\Daniil Yefimov\source\repos\dataSetCreator\obj\Debug\dataSetCreator.dll
+C:\Users\Daniil Yefimov\source\repos\dataSetCreator\obj\Debug\dataSetCreator.pdb
+E:\Programs\steamapps\common\Grand Theft Auto V\scripts\dataSetCreator.dll
+E:\Programs\steamapps\common\Grand Theft Auto V\scripts\dataSetCreator.pdb
+C:\Users\Daniil Yefimov\source\repos\dataSetCreator\obj\Debug\dataSetCreator.Resources.resources
+C:\Users\Daniil Yefimov\source\repos\dataSetCreator\obj\Debug\dataSetCreator.csproj.GenerateResource.cache
